@@ -1,5 +1,8 @@
 # Kubernetes on AWS
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kubernetes/kops/master/docs/img/k8s-aws.png"> </image>
+</p>
 
 | Kris Nova              |                                             |                                          
 | ---------------------- |:-------------------------------------------:|
