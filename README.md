@@ -1,11 +1,11 @@
 # Kubernetes on AWS
 
 
-| Kris Nova              |                                             |                                          
+| Kris Nova                                                            |                                          
 | ---------------------- |:-------------------------------------------:|
 | Email                  | [kris@nivenly.com](mailto:kris@nivenly.com) |
 | GitHub                 | [kris-nova](https://github.com/kris-nova)   |
-| Twitter                | [Twitter](https://twitter.com/Kris__Nova)   |
+| Twitter                | [@kris__nova](https://twitter.com/Kris__Nova)   |
 
 
 ## Examples
@@ -21,7 +21,7 @@
 
 | Name                   |  Download                                                                        |                                          
 | ---------------------- |:--------------------------------------------------------------------------------:|
-| kops                   | [kops v1.5.0-beta1](https://github.com/kubernetes/kops/releases/tag/1.5.0-beta1))|
+| kops                   | [kops v1.5.0-beta1](https://github.com/kubernetes/kops/releases/tag/1.5.0-beta1)|
 
 
 
