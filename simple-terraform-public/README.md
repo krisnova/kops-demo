@@ -1,1 +1,0 @@
-# Simple Terraform Public Cluster
