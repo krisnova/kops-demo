@@ -5,6 +5,8 @@ export KOPS_STATE_STORE="s3://nivenly-state-store"
 
 kops delete cluster --name $KOPS_NAME --yes
 
+exit 1
+
 kops create cluster \
   --name $KOPS_NAME \
   --state $KOPS_STATE_STORE \
