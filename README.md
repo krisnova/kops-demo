@@ -2,9 +2,6 @@
   <img src="https://raw.githubusercontent.com/kubernetes/kops/master/docs/img/k8s-aws.png"> </image>
 </p>
 
-
-## Kubernetes on AWS (Kris Nova)
-
 | Kris Nova              |                                              |                                          
 | ---------------------- |:-------------------------------------------: |
 | Email                  | [kris@nivenly.com](mailto:kris@nivenly.com)  |
