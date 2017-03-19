@@ -27,13 +27,18 @@ The demonstrations here make an assumption that you have been able to get throug
 
 ## About me
 
-I am pretty cool, and try to work pretty hard at making this stuff easy for you. I would love to hear what you think, or if this was helpful to you! It's hard to see how much attention this stuff gets so please feel free to give me a shout. 
+I am pretty cool, and try to work pretty hard at making this stuff easy for you. I would love to hear what you think, or if this was helpful to you! It's hard to see how much attention this stuff gets so please feel free to give me a shout.
 
 | Kris Nova              |                                              |                                          
 | ---------------------- |:-------------------------------------------: |
 | Email                  | [kris@nivenly.com](mailto:kris@nivenly.com)  |
 | GitHub                 | [kris-nova](https://github.com/kris-nova)    |
 | Twitter                | [@kris__nova](https://twitter.com/Kris__Nova)|
+| My life story          | [nivenly.com](https://www.nivenly.com/)      |
+
+<p align="center">
+  <img src="img/sb.png"> </image>
+</p>
 
 ## Legal
 
