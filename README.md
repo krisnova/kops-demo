@@ -37,7 +37,7 @@ I am pretty cool, and try to work pretty hard at making this stuff easy for you.
 | My life story          | [nivenly.com](https://www.nivenly.com/)      |
 
 <p align="center">
-  <img src="img/sb.png"> </image>
+  <img src="strongbu.png"> </image>
 </p>
 
 ## Legal
