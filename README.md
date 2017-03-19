@@ -29,7 +29,7 @@ Some great examples to help you get started with kops can be found here:
 
 | Name                           |  Link                                                                            |
 | ------------------------------ |:--------------------------------------------------------------------------------:|
-| kops download                  | [kops v1.5.0-beta1](https://github.com/kubernetes/kops/releases/tag/1.5.0-beta1) |
+| kops download                  | [kops v1.5.3](https://github.com/kubernetes/kops/releases/tag/1.5.3) |
 | Official getting started guide | [aws.md](https://github.com/kubernetes/kops/blob/master/docs/aws.md)             |
 
 ## About me
