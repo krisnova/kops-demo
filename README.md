@@ -6,8 +6,6 @@ Here is a repository that holds some common `kops` Kubernetes clusters. I think 
 
 The demonstrations here make an assumption that you have been able to get through `kops` cluster up and running in AWS.
 
-Some great examples to help you get started with kops can be found here:
-
 ## Getting Started with Kops
 
 | Article                |  Link                                            |                                          
@@ -17,7 +15,7 @@ Some great examples to help you get started with kops can be found here:
 | Offical Guide                | [aws.md](https://github.com/kubernetes/kops/blob/master/docs/aws.md)|
 | kops download                  | [kops v1.5.3](https://github.com/kubernetes/kops/releases/tag/1.5.3) |
 
-## Examples
+## Kubernetes Cluster Examples
 
 | Type                   | Topology      | Link                                                           |
 | ---------------------- |:-------------:| -------------------------------------------------------------- |
