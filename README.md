@@ -15,6 +15,7 @@ Some great examples to help you get started with kops can be found here:
 | Seeting up an HA Kubernetes cluster in AWS with private topology | [nivenly.com/kops-1-5-1](mailto:kris@nivenly.com)  |
 | Booting Kubernetes on EC2 with kops|[deis.com/docs/workflow/quickstart/provider/aws/boot](https://deis.com/docs/workflow/quickstart/provider/aws/boot)    |
 | Offical Guide                | [aws.md](https://github.com/kubernetes/kops/blob/master/docs/aws.md)|
+| kops download                  | [kops v1.5.3](https://github.com/kubernetes/kops/releases/tag/1.5.3) |
 
 ## Examples
 
@@ -25,12 +26,6 @@ Some great examples to help you get started with kops can be found here:
 | highly-available-master| private       | [Example](ha-master-private/README.md)                         |
 | highly-available-master (with a subdomain) | private | [Example](ha-master-private-subdomain/README.md) |
 
-## Resources
-
-| Name                           |  Link                                                                            |
-| ------------------------------ |:--------------------------------------------------------------------------------:|
-| kops download                  | [kops v1.5.3](https://github.com/kubernetes/kops/releases/tag/1.5.3) |
-| Official getting started guide | [aws.md](https://github.com/kubernetes/kops/blob/master/docs/aws.md)             |
 
 ## About me
 
