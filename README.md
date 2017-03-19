@@ -27,7 +27,7 @@ The demonstrations here make an assumption that you have been able to get throug
 
 ## About me
 
-I am pretty cool, and try to work pretty hard at making this stuff easy for you. I would love to hear what you think, or if this was helpful to you! It's hard to see how much attention this stuff gets so please feel free to give me a shout.
+I think I am pretty cool, and try to work really hard at making this stuff easy for you. I would love to hear what you think, or if this was helpful to you! It's hard to see how much attention this stuff gets so please feel free to give me a shout.
 
 | Kris Nova              |                                              |                                          
 | ---------------------- |:-------------------------------------------: |
