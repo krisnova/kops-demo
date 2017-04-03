@@ -36,10 +36,6 @@ I think I am pretty cool, and try to work really hard at making this stuff easy 
 | Twitter                | [@kris__nova](https://twitter.com/Kris__Nova)|
 | My life story          | [nivenly.com](https://www.nivenly.com/)      |
 
-<p align="center">
-  <img src="strongbu.png"> </image>
-</p>
-
 ## Legal
 
 *AWS Trademark used with limited permission under the [AWS Trademark
